@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./docs/imgs/hyperswitch-logo-dark.svg#gh-dark-mode-only" alt="Hyperswitch-Logo" width="40%" />
-  <img src="./docs/imgs/hyperswitch-logo-light.svg#gh-light-mode-only" alt="Hyperswitch-Logo" width="40%" />
+  <img src="./docs/imgs/n3dlogo.png#gh-dark-mode-only" alt="n3d-Logo" width="40%" />
+  <img src="./docs/imgs/n3dlogo.png#gh-dark-mode-only" alt="n3d-Logo" width="40%" width="40%" />
 </p>
 
-<h1 align="center">Open-Source Payments Orchestration</h1>
+<h1 align="center">n3d.io Payments Orchestration</h1>
 
 <div align="center" >
 Single API to access the payments ecosystem and its features
