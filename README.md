@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./docs/imgs/logo.png#gh-dark-mode-only" alt="n3d-Logo" width="40%" />
-  <img src="./docs/imgs/logo.png#gh-dark-mode-only" alt="n3d-Logo" width="40%" width="40%" />
+  <img src="./docs/imgs/logo.png" alt="n3d-Logo" width="40%" width="40%" />
 </p>
 
 <h1 align="center">n3d.io Payments Orchestration</h1>
